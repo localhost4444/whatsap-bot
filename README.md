@@ -1,10 +1,4 @@
 # whatsap-bot
 im not responsible for any misuse
 
-REQUIREMENTS 
-
-
-INSTALLATION 
-1:cd whatsap-bot
-2:bash instalar.sh
-3:bash venom.sh
+git clone https://github.com/localhost4444/whatsap-bot.git && cd whatsap-bot && bash instalar.sh 
